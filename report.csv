@@ -1,0 +1,185 @@
+timestamp,detection,face_count,notes
+2025-09-04 15:51:27,object,0,No face detected (object)
+2025-09-04 15:51:28,human,1,Faces detected
+2025-09-04 15:51:28,object,0,No face detected (object)
+2025-09-04 15:51:37,human,1,Faces detected
+2025-09-04 15:51:54,object,0,No face detected (object)
+2025-09-04 15:51:54,human,1,Faces detected
+2025-09-04 15:51:54,object,0,No face detected (object)
+2025-09-04 15:51:54,human,1,Faces detected
+2025-09-04 15:51:54,object,0,No face detected (object)
+2025-09-04 15:51:55,human,1,Faces detected
+2025-09-04 15:51:55,object,0,No face detected (object)
+2025-09-04 15:51:55,human,1,Faces detected
+2025-09-04 15:51:55,object,0,No face detected (object)
+2025-09-04 15:51:55,human,1,Faces detected
+2025-09-04 15:51:55,object,0,No face detected (object)
+2025-09-04 15:51:56,human,1,Faces detected
+2025-09-04 15:51:56,object,0,No face detected (object)
+2025-09-04 15:51:56,human,1,Faces detected
+2025-09-04 15:51:56,object,0,No face detected (object)
+2025-09-04 15:51:57,human,1,Faces detected
+2025-09-04 15:51:57,object,0,No face detected (object)
+2025-09-04 15:51:58,human,1,Faces detected
+2025-09-04 15:51:58,object,0,No face detected (object)
+2025-09-04 15:52:27,human,1,Faces detected
+2025-09-04 15:52:27,object,0,No face detected (object)
+2025-09-04 15:52:27,human,1,Faces detected
+2025-09-04 15:52:27,object,0,No face detected (object)
+2025-09-04 15:52:28,human,1,Faces detected
+2025-09-04 15:52:28,object,0,No face detected (object)
+2025-09-04 15:52:29,human,1,Faces detected
+2025-09-04 15:52:29,object,0,No face detected (object)
+2025-09-04 15:52:30,human,1,Faces detected
+2025-09-04 15:52:30,object,0,No face detected (object)
+2025-09-04 15:52:30,human,1,Faces detected
+2025-09-04 15:52:30,object,0,No face detected (object)
+2025-09-04 15:52:30,human,1,Faces detected
+2025-09-04 15:52:30,object,0,No face detected (object)
+2025-09-04 15:52:30,human,1,Faces detected
+2025-09-04 15:52:31,object,0,No face detected (object)
+2025-09-04 15:52:31,human,1,Faces detected
+2025-09-04 15:52:31,object,0,No face detected (object)
+2025-09-04 15:52:31,human,1,Faces detected
+2025-09-04 15:52:31,object,0,No face detected (object)
+2025-09-04 15:52:32,human,1,Faces detected
+2025-09-04 15:52:32,object,0,No face detected (object)
+2025-09-04 15:52:32,human,1,Faces detected
+2025-09-04 15:52:32,object,0,No face detected (object)
+2025-09-04 15:52:33,human,1,Faces detected
+2025-09-04 15:52:33,object,0,No face detected (object)
+2025-09-04 15:52:33,human,1,Faces detected
+2025-09-04 15:52:33,object,0,No face detected (object)
+2025-09-04 15:52:33,human,1,Faces detected
+2025-09-04 15:52:34,object,0,No face detected (object)
+2025-09-04 15:52:34,human,1,Faces detected
+2025-09-04 15:52:34,object,0,No face detected (object)
+2025-09-04 15:52:34,human,1,Faces detected
+2025-09-04 15:52:34,object,0,No face detected (object)
+2025-09-04 15:52:34,human,1,Faces detected
+2025-09-04 15:52:34,object,0,No face detected (object)
+2025-09-04 15:52:35,human,1,Faces detected
+2025-09-04 15:52:36,object,0,No face detected (object)
+2025-09-04 15:52:36,human,1,Faces detected
+2025-09-04 15:52:39,object,0,No face detected (object)
+2025-09-04 15:52:40,human,1,Faces detected
+2025-09-04 15:52:40,object,0,No face detected (object)
+2025-09-04 15:52:40,human,1,Faces detected
+2025-09-04 15:52:41,object,0,No face detected (object)
+2025-09-04 15:52:41,human,1,Faces detected
+2025-09-04 15:52:42,object,0,No face detected (object)
+2025-09-04 15:52:42,human,1,Faces detected
+2025-09-04 15:52:44,object,0,No face detected (object)
+2025-09-04 15:53:24,human,1,Faces detected
+2025-09-04 15:53:24,object,0,No face detected (object)
+2025-09-04 15:53:25,human,1,Faces detected
+2025-09-04 15:53:25,object,0,No face detected (object)
+2025-09-04 15:53:42,human,1,Faces detected
+2025-09-04 15:53:42,object,0,No face detected (object)
+2025-09-04 15:55:36,human,1,Faces detected
+2025-09-04 21:26:58,object,0,No face detected (object)
+2025-09-04 21:26:58,human,1,Faces detected
+2025-09-04 21:26:59,object,0,No face detected (object)
+2025-09-04 21:26:59,human,1,Faces detected
+2025-09-04 21:27:01,object,0,No face detected (object)
+2025-09-04 21:27:01,human,1,Faces detected
+2025-09-04 21:27:02,object,0,No face detected (object)
+2025-09-04 21:27:02,human,1,Faces detected
+2025-09-04 21:27:02,object,0,No face detected (object)
+2025-09-04 21:27:03,human,1,Faces detected
+2025-09-04 21:27:03,object,0,No face detected (object)
+2025-09-04 21:28:29,object,0,No face detected (object)
+2025-09-04 21:28:33,human,2,Faces detected
+2025-09-04 21:42:11,human,1,Faces detected
+2025-09-04 21:42:14,object,0,No face detected (object)
+2025-09-04 21:42:15,human,1,Faces detected
+2025-09-04 21:42:15,object,0,No face detected (object)
+2025-09-04 21:42:15,human,1,Faces detected
+2025-09-04 21:42:16,object,0,No face detected (object)
+2025-09-04 21:42:16,human,1,Faces detected
+2025-09-04 21:42:16,object,0,No face detected (object)
+2025-09-04 21:42:17,human,1,Faces detected
+2025-09-04 21:42:17,object,0,No face detected (object)
+2025-09-04 21:42:18,human,1,Faces detected
+2025-09-04 21:43:53,human,1,Faces detected
+2025-09-04 21:43:55,object,0,No face detected (object)
+2025-09-04 21:43:56,human,1,Faces detected
+2025-09-04 21:43:56,object,0,No face detected (object)
+2025-09-04 21:43:56,human,1,Faces detected
+2025-09-04 21:43:56,object,0,No face detected (object)
+2025-09-04 21:43:58,human,1,Faces detected
+2025-09-04 21:43:58,object,0,No face detected (object)
+2025-09-04 21:43:58,human,1,Faces detected
+2025-09-04 21:43:58,object,0,No face detected (object)
+2025-09-04 21:43:58,human,1,Faces detected
+2025-09-04 21:43:59,object,0,No face detected (object)
+2025-09-04 21:43:59,human,1,Faces detected
+2025-09-04 21:43:59,object,0,No face detected (object)
+2025-09-04 21:43:59,human,1,Faces detected
+2025-09-04 21:44:00,object,0,No face detected (object)
+2025-09-04 21:44:00,human,1,Faces detected
+2025-09-04 21:44:00,object,0,No face detected (object)
+2025-09-04 21:44:00,human,1,Faces detected
+2025-09-04 21:44:00,object,0,No face detected (object)
+2025-09-04 21:44:00,human,1,Faces detected
+2025-09-04 21:44:01,object,0,No face detected (object)
+2025-09-04 21:44:01,human,1,Faces detected
+2025-09-04 21:44:01,object,0,No face detected (object)
+2025-09-04 21:44:01,human,1,Faces detected
+2025-09-04 21:44:01,object,0,No face detected (object)
+2025-09-04 21:44:01,human,1,Faces detected
+2025-09-04 21:44:01,object,0,No face detected (object)
+2025-09-04 21:44:01,human,1,Faces detected
+2025-09-04 21:44:01,object,0,No face detected (object)
+2025-09-04 21:44:02,human,1,Faces detected
+2025-09-04 21:44:02,object,0,No face detected (object)
+2025-09-04 21:44:02,human,1,Faces detected
+2025-09-04 21:44:02,object,0,No face detected (object)
+2025-09-04 21:44:02,human,1,Faces detected
+2025-09-04 21:44:02,object,0,No face detected (object)
+2025-09-04 21:44:02,human,1,Faces detected
+2025-09-04 21:44:02,object,0,No face detected (object)
+2025-09-04 21:44:02,human,1,Faces detected
+2025-09-04 21:44:02,object,0,No face detected (object)
+2025-09-04 21:44:03,human,1,Faces detected
+2025-09-04 21:55:47,human,1,Faces detected
+2025-09-04 22:00:31,human,1,Faces detected
+2025-09-04 22:00:40,human,1,Faces detected
+2025-09-04 22:00:40,human,1,Faces detected
+2025-09-04 22:00:40,human,1,Faces detected
+2025-09-04 22:02:36,human,1,Faces detected
+2025-09-04 22:02:37,human,1,Faces detected
+2025-09-04 22:02:38,human,1,Faces detected
+2025-09-04 22:02:38,human,1,Faces detected
+2025-09-04 22:02:39,human,1,Faces detected
+2025-09-04 22:02:46,human,1,Faces detected
+2025-09-04 22:06:59,human,1,Faces detected
+2025-09-04 22:06:59,human,1,Faces detected
+2025-09-04 22:07:00,human,1,Faces detected
+2025-09-04 22:07:01,human,1,Faces detected
+2025-09-04 22:07:02,human,1,Faces detected
+2025-09-04 22:07:02,human,1,Faces detected
+2025-09-04 22:07:02,human,1,Faces detected
+2025-09-04 22:08:52,human,1,Faces detected
+2025-09-04 22:08:53,human,1,Faces detected
+2025-09-04 22:08:55,human,1,Faces detected
+2025-09-04 22:08:56,human,1,Faces detected
+2025-09-04 22:08:59,human,1,Faces detected
+2025-09-04 22:09:01,human,1,Faces detected
+2025-09-04 22:09:02,human,1,Faces detected
+2025-09-04 22:09:04,human,1,Faces detected
+2025-09-04 22:11:55,human,1,Faces detected
+2025-09-04 22:11:56,human,1,Faces detected
+2025-09-04 22:11:57,human,1,Faces detected
+2025-09-04 22:12:03,human,1,Faces detected
+2025-09-04 22:12:05,human,1,Faces detected
+2025-09-04 22:12:05,human,1,Faces detected
+2025-09-04 22:12:57,human,1,Faces detected
+2025-09-04 22:12:59,human,1,Faces detected
+2025-09-04 22:13:02,human,1,Faces detected
+2025-09-04 22:13:06,human,1,Faces detected
+2025-09-04 22:13:07,human,1,Faces detected
+2025-09-04 22:13:08,human,1,Faces detected
+2025-09-04 22:13:08,human,1,Faces detected
+2025-09-04 22:13:08,human,1,Faces detected
+2025-09-04 22:13:09,human,1,Faces detected
